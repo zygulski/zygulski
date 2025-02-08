@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zygulski
-- 👀 I’m interested in front end development and learning as much as I can
-- 🌱 I’m currently learning HTML, CSS, JavaScript, and React.js
+- 👋 Hi, I’m Jordan Zygulski
+- 👀 I’m interested in software development and learning as much as I can
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React.js (for now)
 - 📫 How to reach me: zygulski0907@gmail.com
-- ⚡ Fun fact: I'm a Army veteran and just started slowly learning code in 2021
+- ⚡ Army Veteran, started actively learning code around mid 2024 
 
 <!---
 zygulski/zygulski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
